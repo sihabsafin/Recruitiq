@@ -216,7 +216,7 @@ A few things I'd build next with more time:
 
 ## About
 
-Built by **Md. Safin Hossain** — Computer Science student at BGC Trust University Bangladesh, currently in my 7th semester.
+Built by **Sihab Safin** — Computer Science student at BGC Trust University Bangladesh.
 
 I built RecruitIQ to demonstrate what's actually possible with CrewAI in a real-world context — not a toy demo, but a complete workflow that solves a real problem. The hiring pipeline covers every phase from intake to offer, integrates 12 specialized agents, runs entirely on free infrastructure, and produces outputs that hiring managers can actually use.
 
